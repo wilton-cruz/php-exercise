@@ -2,7 +2,7 @@
 $num = 4;
 
 
-# Using (" \\ - Or "  Logical Operators)
+# Using (" || - Or "  Logical Operators)
 #htis will compare and evaluate the variable
 if ($num == 10 || is_string( $num )) {
     echo ' 10 or string ';
