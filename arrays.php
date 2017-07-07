@@ -1,4 +1,4 @@
-<?php 
+<?php
 $fruits_list = array('apple', 'Oranges', 'pear');
 $fruits_list[] = "Let\n's eat healty fruits!";
 
