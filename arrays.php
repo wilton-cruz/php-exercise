@@ -30,3 +30,4 @@ $fruits_list = array_values($fruits_list);
 //echo implode("\n", $fruits_list);
 print_r($fruits_list);
 ?>
+
